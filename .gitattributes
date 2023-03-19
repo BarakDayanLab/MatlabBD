@@ -1,0 +1,11 @@
+# 'binary' is a macro that expands to a whole lot of various attributes that designate merging, diffing, CR/LF handling, etc
+*.mlx binary
+*.mat binary
+*.fig binary
+*.mlapp binary
+*.mdl binary
+*.slx binary
+*.mdlp binary
+*.slxp binary
+*.sldd binary
+*.p binary
